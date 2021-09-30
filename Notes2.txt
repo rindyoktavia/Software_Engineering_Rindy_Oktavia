@@ -1,0 +1,36 @@
+1. List []
+Untuk menambahkan list bisa memakai append dan insert.
+contoh list:
+	contoh_list = ["Rindy", 12, 12.0, ['David', 'Dian'], {}, {}, True]
+	print(contoh_list[0])-awal
+	print(contoh_list[1])-tengah
+	print(contoh_list[-1])-akhir
+
+2. Dictionary {}
+Data di dictionary bisa berupa integer ataupun boolean.
+contoh dict:
+	contoh_dict = {2:"Alvin", "Dua Belas":12, False:12.0, 3.0:['David', 'Dian'], "Dict":{}, 333:(), "Boolean":True}
+	print(contoh_dict[2])
+	print(contoh_dict["Dua Belas"])
+	print(contoh_dict[False])
+
+contoh method di dict: .keys()
+contoh_dict.keys()
+
+3. Tuple ()
+Tuple nilainya tidak bisa diganggu gugat, tetapi dia bisa dipanggil.
+
+4. Set {}
+Set itu tidak bisa dipanggil. Untuk manggil set harus diubah dulu ke bentuk list.
+Set berguna untuk menghilangkan nilai yang double.
+
+5. Looping
+contoh looping:
+	for i in range(10,0,-1):
+		print(i)
+
+while looping => Forever loop
+While looping akan selesai ketika kondisinya salah.
+
+6. Function
+Function di python dimulai dari def
