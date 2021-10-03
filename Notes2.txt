@@ -1,3 +1,5 @@
+Rindy Oktavia
+
 1. List []
 Untuk menambahkan list bisa memakai append dan insert.
 contoh list:
